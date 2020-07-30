@@ -1,11 +1,11 @@
-# Server-Helper - ARCHIVED Version
+# ServerHelper
 
 ---
 | Discord |
 | :-----: |
 [![Discord](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/M7aQfm) |
 
-### Description:
+### Description
 Simple Helper Plugin for Servers!
 API 4.0.0 - MCBE 1.7-1.8 Compatible!
 
@@ -20,15 +20,15 @@ API 4.0.0 - MCBE 1.7-1.8 Compatible!
     	- [x] /tstop(stop time)
     	- [ ] /votetime
     - [x] Gamemode
-	- [x] /gmc
-    	- [x] /gms
-    	- [x] /gmsp
-    	- [x] /gma
+	- [x] /gmc - Creative mode
+    	- [x] /gms - Survival mode
+    	- [x] /gmsp - Spectator mode
+    	- [x] /gma - Adventure mode
     - [x] Inventory Commands
-    	- [x] /clear(for PMMP Servers)
+    	- [x] /clear(for PocketMine-MP servers)
     	- [x] /cleararmor
     	- [x] /itemid
-    - [x] [/me](https://github.com/PMExpertsDE/MeCommand)
+    - [x] /me
     - [x] /heal
     - [x] /fly
     - [x] /feed
@@ -39,9 +39,9 @@ API 4.0.0 - MCBE 1.7-1.8 Compatible!
     - [x] /vanish 
     - [x] /size | /playersize
     - [ ] /near
-- [x] Api's
+- [x] Api
     - [x] TeleportAPI
-    - [x] Addon Loader(get other installed PME Plugins)
+    - [x] Addon Loader(get other installed PM Plugins)
     - [x] Config checker
     - [ ] BanAPI
 - [x] other functions
@@ -64,19 +64,11 @@ API 4.0.0 - MCBE 1.7-1.8 Compatible!
     - [x] Vanish
     - [x] NickNames(/nick <nickname>
 
-### Next TODO:
+### TODO:
 - hotbar change
 
-# Addon Plugins
-- [LobbyItems-PMExperts](https://github.com/PMExpertsDE/LobbyItems-PMExperts)
-- [MeCommand(for Altay Servers)](https://github.com/PMExpertsDE/MeCommand)
-- [SmallPlugins](https://github.com/pmexpertsde/SmallPlugins)
-- [SoupFFA](https://github.com/pmexpertsde/soupffa)
-
-### You want to help us?
-Do it! Yeah were search for Developers of you want to help do it.
-
-### You want to Fork?
-Please leave an star and doit! 
-
-## Thanks for all Users and Helpers!
+## Addon Plugins
+- [LobbyItems](https://github.com/PocketMine-Plugin/LobbyItems)
+- [MeCommand(for Altay Servers)](https://github.com/PocketMine-Plugin/MeCommand)
+- [SmallPlugins](https://github.com/PocketMine-Plugin/SmallPlugins)
+- [SoupFFA](https://github.com/PocketMine-Plugin/SoupFFA)
