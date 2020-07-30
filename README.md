@@ -1,5 +1,5 @@
 # Server-Helper - ARCHIVED Version
-NEW: https://github.com/ZeroDevsDE/Server-Helper
+
 ---
 | Discord |
 | :-----: |
